@@ -1,4 +1,7 @@
 /* Pon tu código css aqui{ }*/
+.marco{ 
+	border: 3px solid grey;
+}
 .amarillo{ 
 	background: yellow;
 	width: 20%;
