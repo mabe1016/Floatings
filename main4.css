@@ -1,0 +1,30 @@
+/* Pon tu código css aqui{ }*/
+.clearfix{border: 3px solid grey; }
+
+.clearfix:before, .clearfix:after{ 
+	content: "";
+	display: table;
+	
+}
+.clearfix:after {
+	clear:both;
+}
+.amarillo{ 
+	background: yellow;
+	width: 20%;
+	height: 100px;
+	float: left;
+	}
+.azul{ 
+	background: blue;
+	width: 20%;
+	height: 100px;
+	float: left;
+}
+.rojo{ 
+	background: red;
+	width: 20%;
+	height: 100px;
+	float: left;
+	
+}
