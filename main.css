@@ -1,0 +1,18 @@
+/* Pon tu código css aqui{ }*/
+.amarillo{ 
+	background: yellow;
+	width: 20%;
+	height: 100px;
+
+}
+.azul{ 
+	background: blue;
+	width: 20%;
+	height: 100px;
+	
+}
+.rojo{ 
+	background: red;
+	width: 20%;
+	height: 100px;
+}
