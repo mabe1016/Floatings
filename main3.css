@@ -1,0 +1,22 @@
+/* Pon tu código css aqui{ }*/
+.marco{ 
+	border: 3px solid grey;
+	d
+}
+.amarillo{ 
+	background: yellow;
+	width: 20%;
+	height: 100px;
+	float: right;}
+.azul{ 
+	background: blue;
+	width: 20%;
+	height: 100px;
+	float:  right;
+}
+.rojo{ 
+	background: red;
+	width: 20%;
+	height: 100px;
+	float: right;
+}
